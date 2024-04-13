@@ -1,0 +1,2 @@
+SECRET_KEY = "sh_dev"
+ALGORITHM = "HS256"
